@@ -1,0 +1,6 @@
+D:\upb\estocasticos\juego_estocasticos\juego_estocasticos\bin\Debug\juego_estocasticos.exe
+D:\upb\estocasticos\juego_estocasticos\juego_estocasticos\bin\Debug\juego_estocasticos.pdb
+D:\upb\estocasticos\juego_estocasticos\juego_estocasticos\obj\Debug\juego_estocasticos.csproj.AssemblyReference.cache
+D:\upb\estocasticos\juego_estocasticos\juego_estocasticos\obj\Debug\juego_estocasticos.csproj.CoreCompileInputs.cache
+D:\upb\estocasticos\juego_estocasticos\juego_estocasticos\obj\Debug\juego_estocasticos.exe
+D:\upb\estocasticos\juego_estocasticos\juego_estocasticos\obj\Debug\juego_estocasticos.pdb
